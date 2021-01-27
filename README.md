@@ -1,2 +1,3 @@
 # CodeDrops12
-Using commits padron's
+Padronizando mensagens de commit do Gi
+https://www.youtube.com/watch?v=erInHkjxkL8
